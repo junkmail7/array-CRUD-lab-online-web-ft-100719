@@ -1,5 +1,6 @@
 def create_an_empty_array
-  arrayguy=arrayguy
+  arrayguy=[]
+  return arrayguy
 end
 
 def create_an_array
